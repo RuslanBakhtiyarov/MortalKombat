@@ -1,6 +1,6 @@
 
 const player1 = {
-    name: 'Scorpion',
+    name: 'Fish',
     hr: 80,
     img: "http://reactmarathon-api.herokuapp.com/assets/scorpion.gif",
     weapon: ['nunchucks', 'Fire sword', 'stick killer'],
